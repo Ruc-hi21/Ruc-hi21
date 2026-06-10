@@ -1,6 +1,6 @@
 # Hi there, I'm Ruchi! 👋
 
-> 🎓 Student | Aspiring Developer | Tech Enthusiast
+> 🎓 Student Developer | Tech Enthusiast
 
 Welcome to my digital space! I'm currently navigating my way through the world of tech, learning new concepts, and building projects to sharpen my skills. 
 
